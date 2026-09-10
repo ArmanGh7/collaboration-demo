@@ -1,2 +1,4 @@
 Collaboration Demo Project
-Version 1.0
+Version 2.0
+This is the beginning of version 2.
+In this version we have a new feature which is surprising. 
